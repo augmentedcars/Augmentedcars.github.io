@@ -3844,15 +3844,17 @@ body {
 .cid-rQ3TcwqhrP blockquote {
   color: #767676;
 }
-.cid-rQ9ioae1KN {
-  background: #ffffff;
+.cid-rQqVpuIJAm {
+  background: #149dcc;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
 }
-.cid-rQ9ioae1KN .video-block {
+.cid-rQqVpuIJAm .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-rQ9ioae1KN .video-block {
+  .cid-rQqVpuIJAm .video-block {
     width: 100% !important;
   }
 }
